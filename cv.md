@@ -23,3 +23,7 @@ https://radyukag.github.io/B.SH/shop.html
 https://radyukag.github.io/B.SH/price.html
 https://radyukag.github.io/Device1/
 https://radyukag.github.io/Device1/catalog.html
+## Education
+I studied HTML and CSS at HTMLacademy (id961859) and freeCodeCamp.org. Also I’ve read Ilya Kantor’s textbook (learn.javascript.ru) and solved lesson's tasks.
+## English 
+According to EPAM Training Center’s test, my level is B2. I read articles and answers on stackoverflow in English for practice.
