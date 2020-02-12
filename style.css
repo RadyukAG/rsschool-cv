@@ -8,7 +8,7 @@ body {
   box-sizing: border-box;
   background-color: #F8F1E9;
 
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   font-weight: 700;
 }
@@ -17,6 +17,16 @@ main {
   background-color: #E2DDD9;
   margin: 0 auto;
   width: 1014px;
+}
+
+a {
+  color: #000000;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 .visually-hidden {
@@ -33,10 +43,18 @@ main {
     clip: rect(0 0 0 0);
 }
 
-.head-section {
+.wrapper {
   background-color: #D8C8B8;
 }
 
-.text-block {
-  margin: 0 80px 60px 80px;
+.head-section {
+  margin: 0 80px 40px 80px;
+  display: flex;
+  justify-content: space-around;
 }
+
+.text-block {
+  margin: 0 80px 40px 80px;
+}
+
+
