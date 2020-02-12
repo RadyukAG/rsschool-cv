@@ -71,7 +71,7 @@ li p {
 .head-section {
   margin: 0 80px 40px 80px;
   display: flex;
-  justify-content: space-around;
+  justify-content: flex-start;
 }
 
 .cv-title {
@@ -83,6 +83,10 @@ li p {
 
 .head-section p {
   padding: 0;
+}
+
+.column:first-child {
+  margin-right: 120px;
 }
 
 .column:nth-child(2) p:nth-child(odd) {
