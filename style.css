@@ -1,0 +1,42 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #F8F1E9;
+
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 700;
+}
+
+main {
+  background-color: #E2DDD9;
+  margin: 0 auto;
+  width: 1014px;
+}
+
+.visually-hidden {
+    position: absolute;
+    overflow: hidden;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    border: 0;
+    white-space: nowrap;
+
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+}
+
+.head-section {
+  background-color: #D8C8B8;
+}
+
+.text-block {
+  margin: 0 80px 60px 80px;
+}
