@@ -15,10 +15,17 @@ body {
 }
 
 main {
-  background-color: #E2DDD9;
   margin: 0 auto;
-  width: 1024px;
   overflow: auto;
+  background-color: #E2DDD9;
+  width: 1024px;
+}
+
+h2 {
+  margin: 20px 0;
+
+  font-size: 24px;
+  line-height: 1.3em;
 }
 
 a {
@@ -30,9 +37,10 @@ a:hover {
 }
 
 ul {
-  list-style-type: none;
   margin: 0;
   padding: 0;
+
+  list-style-type: none;
 }
 
 li p {
@@ -56,6 +64,7 @@ li p {
 }
 
 .wrapper {
+  overflow: auto;
   background-color: #D8C8B8;
 }
 
@@ -63,6 +72,21 @@ li p {
   margin: 0 80px 40px 80px;
   display: flex;
   justify-content: space-around;
+}
+
+.cv-title {
+  margin: 20px 0;
+
+  font-size: 24px;
+  line-height: 1.3em;
+}
+
+.head-section p {
+  padding: 0;
+}
+
+.column:nth-child(2) p:nth-child(odd) {
+  color: #F8F1E9;
 }
 
 .text-block {
