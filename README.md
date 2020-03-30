@@ -1,1 +1,1 @@
-https://radyukag.github.io/rsschool-cv/cv
+https://radyukag.github.io/rsschool-cv/
